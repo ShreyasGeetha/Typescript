@@ -1,0 +1,15 @@
+/*********************************Basics********************/
+1. Why do we write blank export statement in typescript file
+2. how can we watch a typescript file
+3. how does typescript treat a file with respect to script and module. How do you specify it
+/*********************************Functions********************/
+1. difference between optional parameters and default parameters
+2. how do you declare an optional parameter in typescript
+3. what is the default value of optional parameter, how do you define it 
+4. what is the default value of default parameter, how do you define it
+5. how do you explicitly define a return type for a function in typescript
+
+/*********************************Interfaces********************/
+
+1. Why do we need interfaces, give an example
+
