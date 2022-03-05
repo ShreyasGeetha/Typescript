@@ -13,3 +13,9 @@
 
 1. Why do we need interfaces, give an example
 
+/*********************************Class********************/
+
+1. define a class in typescript
+2. how is it different to JS class
+3. write a piece of code to demonstrate on how inheritence works in typescript
+
